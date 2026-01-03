@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mayar's Cookie Jar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">🍪 Mayar's Cookie Jar</div>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About us</a>
+    <a href="#">Order</a>
+    <a href="#">Support</a>
+  </nav>
+  <button class="btn">Sign up / Log in</button>
+</header>
+
+<section class="hero">
+  <div>
+    <h1>Seasonal flavors are available now!</h1>
+    <p>Christmas limited edition</p>
+    <button class="btn">Buy now</button>
+  </div>
+  <img src="https://images.unsplash.com/photo-1606313564200-e75d5e30476c">
+</section>
+
+<section class="menu">
+  <h2>Special Menu</h2>
+  <div class="cards">
+    <div class="card"><img src="https://images.unsplash.com/photo-1607082349566-187342175e2f"><p>Ginger snap delight</p></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1541592106381-b31e9677c0e5"><p>Snowy coconut bliss</p></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1605478577548-82b8e9d47c0d"><p>Pumpkin spice cookies</p></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1599785209707-28c2c4b1a7e3"><p>Butter pecan bliss</p></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1599785209790-6b3c1f5e0f39"><p>Chocolate chunk</p></div>
+    <div class="card"><img src="https://images.unsplash.com/photo-1612197527277-9c7a509a68e2"><p>Mint chocolate chip</p></div>
+  </div>
+</section>
+
+<section class="recommend">
+  <h2>Recommendation (Best seller)</h2>
+  <p>Mocha espresso bites – 50 cookie bites in the box</p>
+  <button class="btn">Buy now</button>
+</section>
+
+<footer>
+  © 2025 Mayar's Cookie Jar
+</footer>
+
+</body>
+</html>
